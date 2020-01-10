@@ -1,0 +1,1040 @@
+[Header Info Signal 1 COLT 3.0]
+"aa05103091p.D","I Kamaar","C:\msdchem\1\DATA\2019\Amino Acids\December 2019\23 December AAQ 2019\",[GC]
+23 Dec 2019  15:13    ,AMINO ACID RUN METHOD.M,4
+"aa05103091p"
+"11d"
+"Amino acid quantitation by GCMS",Fri Dec 18 06:54:28 2015
+
+50,100,200,20,10,125
+50std.D,100std.D,200std.D,20std.D,10std.D,sigma.D
+
+
+
+
+
+
+
+
+
+[Results - AA QUANT METHOD.RES]
+"Nor Valine Internal Standard",754248,1.618,200.00
+"Alpha-amino-butyrate",50703,1.390,16.24
+"Alanine",1117032,1.188,443.15
+"Beta-amino-isobutyrate",14722,1.537,14.77
+"Asparagine",95466,2.185,44.72
+"Aspartate",188557,2.752,59.16
+"Cystathionine",1102,5.722,2.01
+"Cystine C-C (disulfide)",16238,5.945,20.62
+"Glutamate",153095,3.121,178.18
+"Glutamine",181894,3.784,473.63
+"Glycine",1015562,1.294,583.19
+"Glycyl-proline dipeptide",0,0.000,0.00
+"Histidine",183738,4.639,168.56
+"OH-Proline",255289,2.919,79.06
+"Hydroxylysine",2501,4.811,2.51
+"Isoleucine",250656,1.760,98.56
+"Leucine",774337,1.704,184.26
+"Lysine",1236282,4.457,291.63
+"Methionine",43969,2.772,38.47
+"Ornithine",579593,4.184,146.83
+"Phenylalanine",207524,3.136,94.01
+"Proline",1319432,2.084,326.08
+"proline-hydroxyproline dipeptide",63777,5.135,12.89
+"Sarcosine",6434,1.244,7.73
+"Serine",344470,2.033,384.54
+"Thioproline",0,0.000,0.00
+"Threonine",713244,1.988,309.47
+"Tryptophan",831833,5.211,64.32
+"Tyrosine",242337,4.923,46.10
+"Valine",671737,1.492,276.46
+"Beta-Alanin_P",100344,1.618,0.00
+"Arginino Succinate",16,6.517,76.54
+"Homocystine Hcy-Hcy",42,6.441,310.53
+[Header Info Signal 1 COLT 3.0]
+"bh02636668p.D","I Kamaar","C:\msdchem\1\DATA\2019\Amino Acids\December 2019\23 December AAQ 2019\",[GC]
+23 Dec 2019  15:26    ,AMINO ACID RUN METHOD.M,5
+"bh02636668p"
+"7y"
+"Amino acid quantitation by GCMS",Fri Dec 18 06:54:28 2015
+
+50,100,200,20,10,125
+50std.D,100std.D,200std.D,20std.D,10std.D,sigma.D
+
+
+
+
+
+
+
+
+
+[Results - AA QUANT METHOD.RES]
+"Nor Valine Internal Standard",629174,1.618,200.00
+"Alpha-amino-butyrate",28319,1.390,10.87
+"Alanine",555755,1.183,264.31
+"Beta-amino-isobutyrate",3850,1.537,5.54
+"Asparagine",124494,2.185,72.57
+"Aspartate",45116,2.747,16.97
+"Cystathionine",424,5.722,0.93
+"Cystine C-C (disulfide)",1358,5.945,10.14
+"Glutamate",215502,3.121,300.68
+"Glutamine",73660,3.774,229.93
+"Glycine",374238,1.289,257.63
+"Glycyl-proline dipeptide",0,0.000,0.00
+"Histidine",109678,4.634,119.89
+"OH-Proline",39975,2.914,14.84
+"Hydroxylysine",397,4.816,0.48
+"Isoleucine",69576,1.755,32.80
+"Leucine",291467,1.699,83.14
+"Lysine",431355,4.447,121.98
+"Methionine",55545,2.772,58.25
+"Ornithine",447976,4.179,136.54
+"Phenylalanine",145545,3.136,78.37
+"Proline",638251,2.079,189.09
+"proline-hydroxyproline dipeptide",3038,5.135,0.74
+"Sarcosine",2526,1.239,6.21
+"Serine",163594,2.018,218.93
+"Thioproline",73,2.635,0.05
+"Threonine",328072,1.977,148.36
+"Tryptophan",376194,5.206,34.87
+"Tyrosine",914352,4.928,236.68
+"Valine",182314,1.487,89.48
+"Beta-Alanin_P",83396,1.618,0.00
+"Arginino Succinate",13,6.542,74.56
+"Homocystine Hcy-Hcy",21,6.426,186.13
+[Header Info Signal 1 COLT 3.0]
+"bh02637960p.D","I Kamaar","C:\msdchem\1\DATA\2019\Amino Acids\December 2019\23 December AAQ 2019\",[GC]
+23 Dec 2019  15:39    ,AMINO ACID RUN METHOD.M,6
+"bh02637960p"
+"2m"
+"Amino acid quantitation by GCMS",Fri Dec 18 06:54:28 2015
+
+50,100,200,20,10,125
+50std.D,100std.D,200std.D,20std.D,10std.D,sigma.D
+
+
+
+
+
+
+
+
+
+[Results - AA QUANT METHOD.RES]
+"Nor Valine Internal Standard",874171,1.618,200.00
+"Alpha-amino-butyrate",25264,1.390,6.98
+"Alanine",840561,1.183,287.72
+"Beta-amino-isobutyrate",6449,1.537,6.41
+"Asparagine",108513,2.185,43.79
+"Aspartate",117120,2.752,31.71
+"Cystathionine",180,5.717,0.28
+"Cystine C-C (disulfide)",7087,5.945,13.38
+"Glutamate",431582,3.126,433.40
+"Glutamine",82027,3.774,184.29
+"Glycine",443733,1.289,219.86
+"Glycyl-proline dipeptide",0,0.000,0.00
+"Histidine",147041,4.634,115.62
+"OH-Proline",233384,2.919,62.36
+"Hydroxylysine",2015,4.811,1.74
+"Isoleucine",166679,1.760,56.55
+"Leucine",474595,1.704,97.44
+"Lysine",889724,4.452,181.09
+"Methionine",46364,2.772,35.00
+"Ornithine",703800,4.184,153.49
+"Phenylalanine",179527,3.141,69.15
+"Proline",980233,2.084,209.02
+"proline-hydroxyproline dipeptide",35164,5.135,6.13
+"Sarcosine",3084,1.239,6.05
+"Serine",196943,2.023,189.69
+"Thioproline",23,2.645,0.01
+"Threonine",480091,1.977,157.46
+"Tryptophan",931636,5.211,62.15
+"Tyrosine",573779,4.923,99.19
+"Valine",326508,1.487,115.31
+"Beta-Alanin_P",116484,1.618,0.00
+"Arginino Succinate",14,6.512,57.79
+"Homocystine Hcy-Hcy",33,6.441,210.51
+[Header Info Signal 1 COLT 3.0]
+"ce04524404p.D","I Kamaar","C:\msdchem\1\DATA\2019\Amino Acids\December 2019\23 December AAQ 2019\",[GC]
+23 Dec 2019  15:52    ,AMINO ACID RUN METHOD.M,7
+"ce04524404p"
+"10m"
+"Amino acid quantitation by GCMS",Fri Dec 18 06:54:28 2015
+
+50,100,200,20,10,125
+50std.D,100std.D,200std.D,20std.D,10std.D,sigma.D
+
+
+
+
+
+
+
+
+
+[Results - AA QUANT METHOD.RES]
+"Nor Valine Internal Standard",562491,1.618,200.00
+"Alpha-amino-butyrate",18205,1.385,7.82
+"Alanine",924775,1.183,491.95
+"Beta-amino-isobutyrate",8129,1.537,11.28
+"Asparagine",89087,2.180,56.98
+"Aspartate",99186,2.747,41.73
+"Cystathionine",9,5.748,0.02
+"Cystine C-C (disulfide)",0,0.000,0.00
+"Glutamate",200553,3.121,313.00
+"Glutamine",80364,3.774,280.60
+"Glycine",442532,1.289,340.76
+"Glycyl-proline dipeptide",0,0.000,0.00
+"Histidine",87442,4.634,106.74
+"OH-Proline",67729,2.914,28.13
+"Hydroxylysine",722,4.812,0.97
+"Isoleucine",124032,1.755,65.40
+"Leucine",514128,1.704,164.05
+"Lysine",554338,4.447,175.34
+"Methionine",21213,2.772,24.88
+"Ornithine",248242,4.179,86.50
+"Phenylalanine",287357,3.136,179.83
+"Proline",551002,2.079,182.59
+"proline-hydroxyproline dipeptide",3017,5.135,0.82
+"Sarcosine",1942,1.239,6.02
+"Serine",156919,2.018,234.89
+"Thioproline",0,0.000,0.00
+"Threonine",203223,1.973,98.52
+"Tryptophan",312961,5.206,32.45
+"Tyrosine",295078,4.918,78.02
+"Valine",329268,1.487,180.99
+"Beta-Alanin_P",74932,1.618,0.00
+"Arginino Succinate",28,6.527,179.62
+"Homocystine Hcy-Hcy",15,6.446,148.71
+[Header Info Signal 1 COLT 3.0]
+"di00711935p.D","I Kamaar","C:\msdchem\1\DATA\2019\Amino Acids\December 2019\23 December AAQ 2019\",[GC]
+23 Dec 2019  16:05    ,AMINO ACID RUN METHOD.M,8
+"di00711935p"
+"4y"
+"Amino acid quantitation by GCMS",Fri Dec 18 06:54:28 2015
+
+50,100,200,20,10,125
+50std.D,100std.D,200std.D,20std.D,10std.D,sigma.D
+
+
+
+
+
+
+
+
+
+[Results - AA QUANT METHOD.RES]
+"Nor Valine Internal Standard",712408,1.618,200.00
+"Alpha-amino-butyrate",47453,1.391,16.09
+"Alanine",1029644,1.183,432.47
+"Beta-amino-isobutyrate",17711,1.537,18.46
+"Asparagine",116819,2.185,59.17
+"Aspartate",111743,2.747,37.12
+"Cystathionine",28,5.748,0.05
+"Cystine C-C (disulfide)",2685,5.945,11.02
+"Glutamate",109528,3.116,134.96
+"Glutamine",169348,3.784,466.86
+"Glycine",457589,1.289,278.20
+"Glycyl-proline dipeptide",0,0.000,0.00
+"Histidine",79492,4.634,76.32
+"OH-Proline",67128,2.914,22.01
+"Hydroxylysine",724,4.812,0.77
+"Isoleucine",110565,1.755,46.03
+"Leucine",428101,1.704,107.85
+"Lysine",625532,4.447,156.23
+"Methionine",31351,2.772,29.04
+"Ornithine",258399,4.179,71.76
+"Phenylalanine",184981,3.137,88.47
+"Proline",790223,2.079,206.76
+"proline-hydroxyproline dipeptide",6879,5.135,1.47
+"Sarcosine",2469,1.239,6.03
+"Serine",154710,2.018,182.85
+"Thioproline",52,2.610,0.03
+"Threonine",251518,1.973,96.07
+"Tryptophan",356714,5.206,29.20
+"Tyrosine",379057,4.923,79.21
+"Valine",293077,1.487,127.02
+"Beta-Alanin_P",93546,1.618,0.00
+"Arginino Succinate",14,6.537,70.91
+"Homocystine Hcy-Hcy",6,6.451,46.97
+[Header Info Signal 1 COLT 3.0]
+"di00711936p.D","I Kamaar","C:\msdchem\1\DATA\2019\Amino Acids\December 2019\23 December AAQ 2019\",[GC]
+23 Dec 2019  16:18    ,AMINO ACID RUN METHOD.M,9
+"di00711936p"
+"3d"
+"Amino acid quantitation by GCMS",Fri Dec 18 06:54:28 2015
+
+50,100,200,20,10,125
+50std.D,100std.D,200std.D,20std.D,10std.D,sigma.D
+
+
+
+
+
+
+
+
+
+[Results - AA QUANT METHOD.RES]
+"Nor Valine Internal Standard",656573,1.618,200.00
+"Alpha-amino-butyrate",65515,1.390,24.10
+"Alanine",1172924,1.188,534.55
+"Beta-amino-isobutyrate",6507,1.537,8.15
+"Asparagine",225835,2.185,134.19
+"Aspartate",159554,2.752,57.51
+"Cystathionine",454,5.717,0.95
+"Cystine C-C (disulfide)",11226,5.945,18.24
+"Glutamate",305557,3.126,408.54
+"Glutamine",354518,3.799,1060.45
+"Glycine",972402,1.294,641.47
+"Glycyl-proline dipeptide",0,0.000,0.00
+"Histidine",122895,4.634,128.87
+"OH-Proline",95852,2.919,34.10
+"Hydroxylysine",1123,4.811,1.30
+"Isoleucine",158758,1.760,71.71
+"Leucine",542042,1.704,148.17
+"Lysine",1101613,4.457,298.52
+"Methionine",51895,2.772,52.15
+"Ornithine",867430,4.189,245.33
+"Phenylalanine",208338,3.141,109.15
+"Proline",945087,2.084,268.31
+"proline-hydroxyproline dipeptide",22001,5.135,5.11
+"Sarcosine",3439,1.239,6.62
+"Serine",322902,2.028,414.09
+"Thioproline",99,2.605,0.07
+"Threonine",541878,1.983,257.87
+"Tryptophan",554401,5.206,49.24
+"Tyrosine",582294,4.923,137.19
+"Valine",381612,1.487,179.69
+"Beta-Alanin_P",86529,1.618,0.00
+"Arginino Succinate",0,0.000,0.00
+"Homocystine Hcy-Hcy",13,6.441,110.41
+[Header Info Signal 1 COLT 3.0]
+"ec03540505p.D","I Kamaar","C:\msdchem\1\DATA\2019\Amino Acids\December 2019\23 December AAQ 2019\",[GC]
+23 Dec 2019  16:31    ,AMINO ACID RUN METHOD.M,10
+"ec03540505p"
+"24d"
+"Amino acid quantitation by GCMS",Fri Dec 18 06:54:28 2015
+
+50,100,200,20,10,125
+50std.D,100std.D,200std.D,20std.D,10std.D,sigma.D
+
+
+
+
+
+
+
+
+
+[Results - AA QUANT METHOD.RES]
+"Nor Valine Internal Standard",612540,1.618,200.00
+"Alpha-amino-butyrate",26623,1.390,10.50
+"Alanine",885891,1.183,432.76
+"Beta-amino-isobutyrate",3607,1.537,5.39
+"Asparagine",70751,2.180,40.51
+"Aspartate",165409,2.747,63.91
+"Cystathionine",242,5.722,0.55
+"Cystine C-C (disulfide)",280,5.945,9.21
+"Glutamate",251964,3.121,361.10
+"Glutamine",36055,3.769,115.60
+"Glycine",522208,1.289,369.25
+"Glycyl-proline dipeptide",0,0.000,0.00
+"Histidine",65101,4.629,72.66
+"OH-Proline",72107,2.914,27.50
+"Hydroxylysine",728,4.811,0.90
+"Isoleucine",56004,1.755,27.12
+"Leucine",290481,1.699,85.11
+"Lysine",434461,4.447,126.20
+"Methionine",12264,2.772,13.21
+"Ornithine",151611,4.174,49.99
+"Phenylalanine",269914,3.136,153.96
+"Proline",574495,2.079,174.82
+"proline-hydroxyproline dipeptide",17048,5.130,4.24
+"Sarcosine",1134,1.239,5.48
+"Serine",128936,2.018,177.23
+"Thioproline",23,2.640,0.02
+"Threonine",176454,1.972,77.05
+"Tryptophan",171842,5.206,16.36
+"Tyrosine",238033,4.918,56.58
+"Valine",168044,1.487,84.73
+"Beta-Alanin_P",81810,1.618,0.00
+"Arginino Succinate",6,6.542,35.34
+"Homocystine Hcy-Hcy",23,6.446,209.39
+[Header Info Signal 1 COLT 3.0]
+"ed01962886p.D","I Kamaar","C:\msdchem\1\DATA\2019\Amino Acids\December 2019\23 December AAQ 2019\",[GC]
+23 Dec 2019  16:44    ,AMINO ACID RUN METHOD.M,11
+"ed01962886p"
+"22m"
+"Amino acid quantitation by GCMS",Fri Dec 18 06:54:28 2015
+
+50,100,200,20,10,125
+50std.D,100std.D,200std.D,20std.D,10std.D,sigma.D
+
+
+
+
+
+
+
+
+
+[Results - AA QUANT METHOD.RES]
+"Nor Valine Internal Standard",711767,1.618,200.00
+"Alpha-amino-butyrate",28727,1.390,9.75
+"Alanine",1295833,1.188,544.77
+"Beta-amino-isobutyrate",2529,1.557,3.78
+"Asparagine",152709,2.185,79.27
+"Aspartate",148955,2.752,49.53
+"Cystathionine",174,5.717,0.34
+"Cystine C-C (disulfide)",957,5.945,9.69
+"Glutamate",151843,3.121,187.28
+"Glutamine",175149,3.784,483.29
+"Glycine",656056,1.289,399.23
+"Glycyl-proline dipeptide",0,0.000,0.00
+"Histidine",99741,4.634,96.09
+"OH-Proline",50417,2.914,16.55
+"Hydroxylysine",515,4.811,0.55
+"Isoleucine",247805,1.760,103.25
+"Leucine",805418,1.704,203.09
+"Lysine",701635,4.452,175.39
+"Methionine",39874,2.772,36.97
+"Ornithine",325227,4.179,89.42
+"Phenylalanine",261005,3.136,127.00
+"Proline",1872213,2.084,490.31
+"proline-hydroxyproline dipeptide",6026,5.135,1.29
+"Sarcosine",2217,1.244,5.91
+"Serine",198586,2.028,234.92
+"Thioproline",0,0.000,0.00
+"Threonine",513031,1.983,217.43
+"Tryptophan",733268,5.206,60.08
+"Tyrosine",616913,4.923,133.82
+"Valine",635364,1.487,277.11
+"Beta-Alanin_P",92774,1.618,0.00
+"Arginino Succinate",16,6.517,81.11
+"Homocystine Hcy-Hcy",23,6.431,180.20
+[Header Info Signal 1 COLT 3.0]
+"hn03430452p.D","I Kamaar","C:\msdchem\1\DATA\2019\Amino Acids\December 2019\23 December AAQ 2019\",[GC]
+23 Dec 2019  16:58    ,AMINO ACID RUN METHOD.M,12
+"hn03430452p"
+"4y"
+"Amino acid quantitation by GCMS",Fri Dec 18 06:54:28 2015
+
+50,100,200,20,10,125
+50std.D,100std.D,200std.D,20std.D,10std.D,sigma.D
+
+
+
+
+
+
+
+
+
+[Results - AA QUANT METHOD.RES]
+"Nor Valine Internal Standard",631230,1.618,200.00
+"Alpha-amino-butyrate",34832,1.391,13.33
+"Alanine",1055159,1.183,500.18
+"Beta-amino-isobutyrate",2574,1.537,4.14
+"Asparagine",140174,2.185,82.32
+"Aspartate",9989,2.747,3.75
+"Cystathionine",127,5.717,0.28
+"Cystine C-C (disulfide)",234,5.940,9.16
+"Glutamate",80245,3.116,111.60
+"Glutamine",157593,3.784,490.33
+"Glycine",560929,1.289,384.89
+"Glycyl-proline dipeptide",0,0.000,0.00
+"Histidine",107168,4.634,116.71
+"OH-Proline",53841,2.914,19.92
+"Hydroxylysine",325,4.806,0.39
+"Isoleucine",152577,1.760,71.69
+"Leucine",469163,1.704,133.40
+"Lysine",323462,4.447,91.17
+"Methionine",17702,2.772,18.50
+"Ornithine",647828,4.184,193.30
+"Phenylalanine",176915,3.136,95.84
+"Proline",960564,2.084,283.65
+"proline-hydroxyproline dipeptide",1219,5.140,0.29
+"Sarcosine",5976,1.239,8.05
+"Serine",228313,2.023,304.54
+"Thioproline",64,2.630,0.05
+"Threonine",287863,1.978,127.49
+"Tryptophan",572966,5.206,52.93
+"Tyrosine",548017,4.923,134.06
+"Valine",348324,1.487,170.55
+"Beta-Alanin_P",83865,1.618,0.00
+"Arginino Succinate",12,6.532,68.60
+"Homocystine Hcy-Hcy",137,6.426,1210.31
+[Header Info Signal 1 COLT 3.0]
+"hn03445915p.D","I Kamaar","C:\msdchem\1\DATA\2019\Amino Acids\December 2019\23 December AAQ 2019\",[GC]
+23 Dec 2019  17:10    ,AMINO ACID RUN METHOD.M,13
+"hn03445915p"
+"2m"
+"Amino acid quantitation by GCMS",Fri Dec 18 06:54:28 2015
+
+50,100,200,20,10,125
+50std.D,100std.D,200std.D,20std.D,10std.D,sigma.D
+
+
+
+
+
+
+
+
+
+[Results - AA QUANT METHOD.RES]
+"Nor Valine Internal Standard",837609,1.618,200.00
+"Alpha-amino-butyrate",81164,1.390,23.41
+"Alanine",1060036,1.188,378.68
+"Beta-amino-isobutyrate",60399,1.557,51.48
+"Asparagine",359460,2.190,173.70
+"Aspartate",84681,2.752,23.93
+"Cystathionine",501,5.717,0.82
+"Cystine C-C (disulfide)",1777,5.945,10.12
+"Glutamate",262748,3.121,275.37
+"Glutamine",284278,3.794,666.56
+"Glycine",1195111,1.294,617.99
+"Glycyl-proline dipeptide",0,0.000,0.00
+"Histidine",307160,4.644,256.58
+"OH-Proline",426263,2.924,118.87
+"Hydroxylysine",3590,4.816,3.24
+"Isoleucine",57649,1.760,20.41
+"Leucine",435277,1.704,93.27
+"Lysine",1685413,4.462,358.01
+"Methionine",15920,2.772,12.54
+"Ornithine",453078,4.179,105.04
+"Phenylalanine",137078,3.136,54.40
+"Proline",2735478,2.094,608.75
+"proline-hydroxyproline dipeptide",167141,5.135,30.42
+"Sarcosine",2020,1.244,5.67
+"Serine",340029,2.043,341.80
+"Thioproline",0,0.000,0.00
+"Threonine",958520,1.993,413.94
+"Tryptophan",73483,5.206,5.12
+"Tyrosine",1298755,4.933,254.79
+"Valine",439062,1.487,161.97
+"Beta-Alanin_P",111732,1.618,0.00
+"Arginino Succinate",37,6.512,159.39
+"Homocystine Hcy-Hcy",94,6.436,625.82
+[Header Info Signal 1 COLT 3.0]
+"qf02592219p.D","I Kamaar","C:\msdchem\1\DATA\2019\Amino Acids\December 2019\23 December AAQ 2019\",[GC]
+23 Dec 2019  17:24    ,AMINO ACID RUN METHOD.M,14
+"qf02592219p"
+"1m"
+"Amino acid quantitation by GCMS",Fri Dec 18 06:54:28 2015
+
+50,100,200,20,10,125
+50std.D,100std.D,200std.D,20std.D,10std.D,sigma.D
+
+
+
+
+
+
+
+
+
+[Results - AA QUANT METHOD.RES]
+"Nor Valine Internal Standard",687943,1.618,200.00
+"Alpha-amino-butyrate",54150,1.391,19.01
+"Alanine",2560490,1.193,1113.70
+"Beta-amino-isobutyrate",7951,1.537,9.28
+"Asparagine",132173,2.185,70.27
+"Aspartate",54947,2.747,18.90
+"Cystathionine",588,5.717,1.18
+"Cystine C-C (disulfide)",25858,5.945,29.14
+"Glutamate",257536,3.121,328.63
+"Glutamine",62537,3.769,178.53
+"Glycine",685291,1.289,431.46
+"Glycyl-proline dipeptide",0,0.000,0.00
+"Histidine",169763,4.639,170.80
+"OH-Proline",217130,2.919,73.72
+"Hydroxylysine",3140,4.812,3.45
+"Isoleucine",167098,1.760,72.04
+"Leucine",569404,1.704,148.55
+"Lysine",1446056,4.462,373.99
+"Methionine",91662,2.772,87.92
+"Ornithine",1046577,4.189,280.03
+"Phenylalanine",215109,3.136,107.48
+"Proline",1204395,2.084,326.34
+"proline-hydroxyproline dipeptide",39110,5.135,8.67
+"Sarcosine",8964,1.244,9.25
+"Serine",106903,2.023,130.84
+"Thioproline",105,2.625,0.07
+"Threonine",766681,1.983,395.98
+"Tryptophan",868445,5.211,73.62
+"Tyrosine",694284,4.928,157.91
+"Valine",602830,1.487,271.96
+"Beta-Alanin_P",91568,1.618,0.00
+"Arginino Succinate",16,6.537,83.92
+"Homocystine Hcy-Hcy",70,6.436,567.43
+[Header Info Signal 1 COLT 3.0]
+"sg00396311p.D","I Kamaar","C:\msdchem\1\DATA\2019\Amino Acids\December 2019\23 December AAQ 2019\",[GC]
+23 Dec 2019  17:37    ,AMINO ACID RUN METHOD.M,15
+"sg00396311p"
+"2y"
+"Amino acid quantitation by GCMS",Fri Dec 18 06:54:28 2015
+
+50,100,200,20,10,125
+50std.D,100std.D,200std.D,20std.D,10std.D,sigma.D
+
+
+
+
+
+
+
+
+
+[Results - AA QUANT METHOD.RES]
+"Nor Valine Internal Standard",693326,1.618,200.00
+"Alpha-amino-butyrate",41101,1.390,14.32
+"Alanine",1363863,1.183,588.62
+"Beta-amino-isobutyrate",4533,1.537,5.83
+"Asparagine",109236,2.180,56.66
+"Aspartate",85447,2.747,29.17
+"Cystathionine",44,5.712,0.09
+"Cystine C-C (disulfide)",12472,5.945,18.72
+"Glutamate",113946,3.116,144.27
+"Glutamine",198930,3.784,563.51
+"Glycine",517145,1.289,323.07
+"Glycyl-proline dipeptide",0,0.000,0.00
+"Histidine",113518,4.634,112.50
+"OH-Proline",64797,2.914,21.83
+"Hydroxylysine",447,4.811,0.49
+"Isoleucine",53023,1.755,22.68
+"Leucine",397474,1.699,102.89
+"Lysine",285353,4.447,73.23
+"Methionine",14566,2.772,13.86
+"Ornithine",139256,4.179,41.10
+"Phenylalanine",112654,3.136,53.99
+"Proline",735084,2.079,197.63
+"proline-hydroxyproline dipeptide",9905,5.130,2.18
+"Sarcosine",2819,1.239,6.23
+"Serine",147376,2.018,178.97
+"Thioproline",71,2.625,0.05
+"Threonine",200496,1.972,77.37
+"Tryptophan",215035,5.206,18.09
+"Tyrosine",301706,4.918,63.87
+"Valine",206977,1.487,92.18
+"Beta-Alanin_P",89916,1.618,0.00
+"Arginino Succinate",24,6.532,124.91
+"Homocystine Hcy-Hcy",26,6.441,209.12
+[Header Info Signal 1 COLT 3.0]
+"sg00396396p.D","I Kamaar","C:\msdchem\1\DATA\2019\Amino Acids\December 2019\23 December AAQ 2019\",[GC]
+23 Dec 2019  17:50    ,AMINO ACID RUN METHOD.M,16
+"sg00396396p"
+"1m"
+"Amino acid quantitation by GCMS",Fri Dec 18 06:54:28 2015
+
+50,100,200,20,10,125
+50std.D,100std.D,200std.D,20std.D,10std.D,sigma.D
+
+
+
+
+
+
+
+
+
+[Results - AA QUANT METHOD.RES]
+"Nor Valine Internal Standard",617440,1.618,200.00
+"Alpha-amino-butyrate",57365,1.391,22.44
+"Alanine",431146,1.183,208.94
+"Beta-amino-isobutyrate",10941,1.537,13.53
+"Asparagine",80664,2.180,46.27
+"Aspartate",15478,2.747,5.93
+"Cystathionine",89,5.707,0.20
+"Cystine C-C (disulfide)",5361,5.945,13.69
+"Glutamate",52912,3.116,75.23
+"Glutamine",145481,3.779,462.75
+"Glycine",271771,1.284,190.64
+"Glycyl-proline dipeptide",0,0.000,0.00
+"Histidine",74751,4.629,82.88
+"OH-Proline",126373,2.914,47.81
+"Hydroxylysine",1211,4.812,1.48
+"Isoleucine",90278,1.755,43.36
+"Leucine",270162,1.699,78.53
+"Lysine",489106,4.447,140.94
+"Methionine",15918,2.772,17.01
+"Ornithine",198079,4.179,63.87
+"Phenylalanine",90775,3.131,48.55
+"Proline",462308,2.079,139.57
+"proline-hydroxyproline dipeptide",32763,5.130,8.09
+"Sarcosine",1671,1.244,5.77
+"Serine",102439,2.018,139.69
+"Thioproline",0,0.000,0.00
+"Threonine",408336,1.978,195.86
+"Tryptophan",470647,5.206,44.45
+"Tyrosine",171201,4.918,39.30
+"Valine",211167,1.487,105.58
+"Beta-Alanin_P",80658,1.618,0.00
+"Arginino Succinate",10,6.522,58.44
+"Homocystine Hcy-Hcy",6,6.436,54.19
+[Header Info Signal 1 COLT 3.0]
+"sg00396397p.D","I Kamaar","C:\msdchem\1\DATA\2019\Amino Acids\December 2019\23 December AAQ 2019\",[GC]
+23 Dec 2019  18:03    ,AMINO ACID RUN METHOD.M,17
+"sg00396397p"
+"21m"
+"Amino acid quantitation by GCMS",Fri Dec 18 06:54:28 2015
+
+50,100,200,20,10,125
+50std.D,100std.D,200std.D,20std.D,10std.D,sigma.D
+
+
+
+
+
+
+
+
+
+[Results - AA QUANT METHOD.RES]
+"Nor Valine Internal Standard",499112,1.618,200.00
+"Alpha-amino-butyrate",45352,1.390,21.95
+"Alanine",566070,1.183,339.37
+"Beta-amino-isobutyrate",84,1.578,1.46
+"Asparagine",79018,2.180,56.96
+"Aspartate",81880,2.747,38.82
+"Cystathionine",86,5.712,0.24
+"Cystine C-C (disulfide)",1657,5.945,10.77
+"Glutamate",66981,3.116,117.81
+"Glutamine",129765,3.779,510.62
+"Glycine",212396,1.284,184.32
+"Glycyl-proline dipeptide",0,0.000,0.00
+"Histidine",86271,4.634,118.86
+"OH-Proline",46228,2.914,21.63
+"Hydroxylysine",487,4.811,0.74
+"Isoleucine",125258,1.755,74.43
+"Leucine",425861,1.704,153.14
+"Lysine",493611,4.447,175.96
+"Methionine",15247,2.772,20.16
+"Ornithine",107643,4.174,43.93
+"Phenylalanine",111937,3.136,75.86
+"Proline",517865,2.079,193.41
+"proline-hydroxyproline dipeptide",8383,5.130,2.56
+"Sarcosine",1749,1.239,6.04
+"Serine",106215,2.018,179.18
+"Thioproline",15,2.630,0.01
+"Threonine",295158,1.972,171.58
+"Tryptophan",492659,5.206,57.56
+"Tyrosine",271478,4.918,81.10
+"Valine",401883,1.487,249.64
+"Beta-Alanin_P",66785,1.618,0.00
+"Arginino Succinate",6,6.542,43.38
+"Homocystine Hcy-Hcy",15,6.441,167.59
+[Header Info Signal 1 COLT 3.0]
+"sg00396631p.D","I Kamaar","C:\msdchem\1\DATA\2019\Amino Acids\December 2019\23 December AAQ 2019\",[GC]
+23 Dec 2019  18:16    ,AMINO ACID RUN METHOD.M,18
+"sg00396631p"
+"12m"
+"Amino acid quantitation by GCMS",Fri Dec 18 06:54:28 2015
+
+50,100,200,20,10,125
+50std.D,100std.D,200std.D,20std.D,10std.D,sigma.D
+
+
+
+
+
+
+
+
+
+[Results - AA QUANT METHOD.RES]
+"Nor Valine Internal Standard",541683,1.618,200.00
+"Alpha-amino-butyrate",44082,1.390,19.66
+"Alanine",338350,1.183,186.90
+"Beta-amino-isobutyrate",4283,1.557,6.77
+"Asparagine",71685,2.180,46.92
+"Aspartate",58080,2.747,25.38
+"Cystathionine",38,5.722,0.10
+"Cystine C-C (disulfide)",401,5.945,9.36
+"Glutamate",64884,3.116,105.15
+"Glutamine",124036,3.779,449.72
+"Glycine",286222,1.284,228.86
+"Glycyl-proline dipeptide",0,0.000,0.00
+"Histidine",82400,4.634,104.41
+"OH-Proline",41891,2.914,18.06
+"Hydroxylysine",490,4.811,0.69
+"Isoleucine",74891,1.755,41.00
+"Leucine",263384,1.699,87.27
+"Lysine",350818,4.447,115.23
+"Methionine",17132,2.772,20.87
+"Ornithine",116799,4.174,43.92
+"Phenylalanine",97151,3.136,59.94
+"Proline",313673,2.079,107.94
+"proline-hydroxyproline dipeptide",8836,5.135,2.49
+"Sarcosine",2852,1.244,6.63
+"Serine",91544,2.013,142.29
+"Thioproline",36,2.630,0.03
+"Threonine",172903,1.972,86.09
+"Tryptophan",229137,5.206,24.67
+"Tyrosine",197025,4.918,52.69
+"Valine",274877,1.487,156.77
+"Beta-Alanin_P",71341,1.618,0.00
+"Arginino Succinate",8,6.542,53.29
+"Homocystine Hcy-Hcy",12,6.446,123.54
+[Header Info Signal 1 COLT 3.0]
+"sg00396633p.D","I Kamaar","C:\msdchem\1\DATA\2019\Amino Acids\December 2019\23 December AAQ 2019\",[GC]
+23 Dec 2019  18:29    ,AMINO ACID RUN METHOD.M,19
+"sg00396633p"
+"3y"
+"Amino acid quantitation by GCMS",Fri Dec 18 06:54:28 2015
+
+50,100,200,20,10,125
+50std.D,100std.D,200std.D,20std.D,10std.D,sigma.D
+
+
+
+
+
+
+
+
+
+[Results - AA QUANT METHOD.RES]
+"Nor Valine Internal Standard",562881,1.618,200.00
+"Alpha-amino-butyrate",60639,1.390,26.02
+"Alanine",846427,1.183,449.96
+"Beta-amino-isobutyrate",2877,1.557,4.85
+"Asparagine",109215,2.180,71.03
+"Aspartate",56467,2.747,23.74
+"Cystathionine",54,5.753,0.13
+"Cystine C-C (disulfide)",7436,5.945,16.15
+"Glutamate",69773,3.116,108.82
+"Glutamine",157585,3.784,549.84
+"Glycine",513969,1.289,395.49
+"Glycyl-proline dipeptide",0,0.000,0.00
+"Histidine",84395,4.634,102.90
+"OH-Proline",63427,2.914,26.32
+"Hydroxylysine",537,4.816,0.72
+"Isoleucine",105195,1.755,55.43
+"Leucine",345183,1.699,110.06
+"Lysine",474252,4.447,149.91
+"Methionine",15832,2.772,18.56
+"Ornithine",80309,4.174,29.98
+"Phenylalanine",106746,3.136,63.58
+"Proline",547253,2.079,181.23
+"proline-hydroxyproline dipeptide",8582,5.135,2.32
+"Sarcosine",2947,1.239,6.62
+"Serine",134789,2.018,201.62
+"Thioproline",0,0.000,0.00
+"Threonine",227659,1.972,111.55
+"Tryptophan",266716,5.206,27.63
+"Tyrosine",217078,4.918,56.11
+"Valine",334533,1.487,183.77
+"Beta-Alanin_P",74476,1.618,0.00
+"Arginino Succinate",19,6.542,121.80
+"Homocystine Hcy-Hcy",16,6.441,158.51
+[Header Info Signal 1 COLT 3.0]
+"sg00396834p.D","I Kamaar","C:\msdchem\1\DATA\2019\Amino Acids\December 2019\23 December AAQ 2019\",[GC]
+23 Dec 2019  18:42    ,AMINO ACID RUN METHOD.M,20
+"sg00396834p"
+"21m"
+"Amino acid quantitation by GCMS",Fri Dec 18 06:54:28 2015
+
+50,100,200,20,10,125
+50std.D,100std.D,200std.D,20std.D,10std.D,sigma.D
+
+
+
+
+
+
+
+
+
+[Results - AA QUANT METHOD.RES]
+"Nor Valine Internal Standard",614734,1.618,200.00
+"Alpha-amino-butyrate",28497,1.385,11.20
+"Alanine",598750,1.183,291.45
+"Beta-amino-isobutyrate",5055,1.537,6.99
+"Asparagine",64722,2.180,36.64
+"Aspartate",107401,2.747,41.35
+"Cystathionine",9,5.743,0.02
+"Cystine C-C (disulfide)",4294,5.945,12.77
+"Glutamate",106011,3.116,151.39
+"Glutamine",116933,3.779,373.58
+"Glycine",287398,1.284,202.49
+"Glycyl-proline dipeptide",0,0.000,0.00
+"Histidine",72828,4.634,81.08
+"OH-Proline",45936,2.914,17.45
+"Hydroxylysine",273,4.811,0.34
+"Isoleucine",80572,1.755,38.87
+"Leucine",335636,1.699,97.99
+"Lysine",303962,4.447,87.98
+"Methionine",13147,2.772,14.11
+"Ornithine",117440,4.174,39.23
+"Phenylalanine",136674,3.136,75.17
+"Proline",335212,2.079,101.64
+"proline-hydroxyproline dipeptide",10530,5.135,2.61
+"Sarcosine",1194,1.244,5.51
+"Serine",121558,2.013,166.49
+"Thioproline",0,0.000,0.00
+"Threonine",121737,1.972,51.61
+"Tryptophan",411918,5.206,39.08
+"Tyrosine",192310,4.918,44.79
+"Valine",309776,1.487,155.68
+"Beta-Alanin_P",81332,1.618,0.00
+"Arginino Succinate",13,6.537,76.31
+"Homocystine Hcy-Hcy",19,6.446,172.36
+[Header Info Signal 1 COLT 3.0]
+"sg00396989p.D","I Kamaar","C:\msdchem\1\DATA\2019\Amino Acids\December 2019\23 December AAQ 2019\",[GC]
+23 Dec 2019  18:55    ,AMINO ACID RUN METHOD.M,21
+"sg00396989p"
+"29d"
+"Amino acid quantitation by GCMS",Fri Dec 18 06:54:28 2015
+
+50,100,200,20,10,125
+50std.D,100std.D,200std.D,20std.D,10std.D,sigma.D
+
+
+
+
+
+
+
+
+
+[Results - AA QUANT METHOD.RES]
+"Nor Valine Internal Standard",517747,1.618,200.00
+"Alpha-amino-butyrate",19740,1.385,9.21
+"Alanine",491183,1.183,283.87
+"Beta-amino-isobutyrate",3112,1.537,5.47
+"Asparagine",65230,2.180,44.49
+"Aspartate",14584,2.747,6.67
+"Cystathionine",185,5.722,0.49
+"Cystine C-C (disulfide)",9986,5.945,19.42
+"Glutamate",90292,3.116,153.09
+"Glutamine",119285,3.779,452.49
+"Glycine",219615,1.284,183.72
+"Glycyl-proline dipeptide",0,0.000,0.00
+"Histidine",44981,4.629,59.30
+"OH-Proline",159401,2.914,71.91
+"Hydroxylysine",1196,4.811,1.75
+"Isoleucine",77629,1.755,44.47
+"Leucine",224206,1.699,77.72
+"Lysine",481822,4.447,165.58
+"Methionine",23034,2.772,29.36
+"Ornithine",301422,4.179,112.68
+"Phenylalanine",80306,3.131,51.39
+"Proline",407467,2.079,146.70
+"proline-hydroxyproline dipeptide",44353,5.130,13.06
+"Sarcosine",1506,1.239,5.84
+"Serine",80910,2.013,131.58
+"Thioproline",50,2.625,0.04
+"Threonine",240463,1.972,130.13
+"Tryptophan",389748,5.206,43.90
+"Tyrosine",189629,4.918,53.09
+"Valine",125469,1.487,74.88
+"Beta-Alanin_P",69178,1.613,0.00
+"Arginino Succinate",12,6.527,83.63
+"Homocystine Hcy-Hcy",6,6.431,64.62
+[Header Info Signal 1 COLT 3.0]
+"ub00958702p.D","I Kamaar","C:\msdchem\1\DATA\2019\Amino Acids\December 2019\23 December AAQ 2019\",[GC]
+23 Dec 2019  19:08    ,AMINO ACID RUN METHOD.M,22
+"ub00958702p"
+"6m"
+"Amino acid quantitation by GCMS",Fri Dec 18 06:54:28 2015
+
+50,100,200,20,10,125
+50std.D,100std.D,200std.D,20std.D,10std.D,sigma.D
+
+
+
+
+
+
+
+
+
+[Results - AA QUANT METHOD.RES]
+"Nor Valine Internal Standard",669708,1.618,200.00
+"Alpha-amino-butyrate",26311,1.385,9.49
+"Alanine",662380,1.183,295.95
+"Beta-amino-isobutyrate",2692,1.537,4.10
+"Asparagine",93878,2.180,49.93
+"Aspartate",118157,2.747,41.75
+"Cystathionine",434,5.717,0.89
+"Cystine C-C (disulfide)",566,5.940,9.42
+"Glutamate",170824,3.116,223.92
+"Glutamine",116810,3.779,342.56
+"Glycine",224356,1.284,145.10
+"Glycyl-proline dipeptide",0,0.000,0.00
+"Histidine",84674,4.634,86.59
+"OH-Proline",40701,2.914,14.20
+"Hydroxylysine",978,4.812,1.11
+"Isoleucine",148194,1.755,65.63
+"Leucine",450563,1.704,120.75
+"Lysine",961090,4.452,255.34
+"Methionine",33957,2.772,33.46
+"Ornithine",424375,4.179,122.17
+"Phenylalanine",179355,3.136,91.38
+"Proline",694184,2.079,193.21
+"proline-hydroxyproline dipeptide",7990,5.135,1.82
+"Sarcosine",4677,1.239,7.21
+"Serine",161530,2.018,203.08
+"Thioproline",48,2.635,0.03
+"Threonine",364466,1.978,155.82
+"Tryptophan",619689,5.206,53.96
+"Tyrosine",314075,4.923,69.20
+"Valine",382561,1.487,176.59
+"Beta-Alanin_P",88989,1.618,0.00
+"Arginino Succinate",13,6.542,70.04
+"Homocystine Hcy-Hcy",29,6.441,241.48
+[Header Info Signal 1 COLT 3.0]
+"xe00166983p.D","I Kamaar","C:\msdchem\1\DATA\2019\Amino Acids\December 2019\23 December AAQ 2019\",[GC]
+23 Dec 2019  19:21    ,AMINO ACID RUN METHOD.M,23
+"xe00166983p"
+"18m"
+"Amino acid quantitation by GCMS",Fri Dec 18 06:54:28 2015
+
+50,100,200,20,10,125
+50std.D,100std.D,200std.D,20std.D,10std.D,sigma.D
+
+
+
+
+
+
+
+
+
+[Results - AA QUANT METHOD.RES]
+"Nor Valine Internal Standard",126541,1.613,200.00
+"Alpha-amino-butyrate",5909,1.386,11.28
+"Alanine",123927,1.178,293.04
+"Beta-amino-isobutyrate",0,0.000,0.00
+"Asparagine",19737,2.180,56.05
+"Aspartate",3487,2.747,6.52
+"Cystathionine",21,5.722,0.23
+"Cystine C-C (disulfide)",505,5.945,11.14
+"Glutamate",9174,3.116,63.64
+"Glutamine",21117,3.764,327.75
+"Glycine",45115,1.284,154.42
+"Glycyl-proline dipeptide",0,0.000,0.00
+"Histidine",17734,4.629,96.09
+"OH-Proline",5219,2.914,9.63
+"Hydroxylysine",57,4.832,0.34
+"Isoleucine",20505,1.755,48.06
+"Leucine",71722,1.699,101.73
+"Lysine",103605,4.442,145.67
+"Methionine",5994,2.767,31.26
+"Ornithine",22089,4.174,36.08
+"Phenylalanine",44840,3.131,122.52
+"Proline",151000,2.079,222.43
+"proline-hydroxyproline dipeptide",1112,5.135,1.34
+"Sarcosine",484,1.239,6.15
+"Serine",22855,2.008,152.07
+"Thioproline",8,2.641,0.03
+"Threonine",48085,1.967,104.13
+"Tryptophan",134630,5.206,62.05
+"Tyrosine",76175,4.918,90.40
+"Valine",61044,1.482,149.01
+"Beta-Alanin_P",16562,1.613,0.00
+"Arginino Succinate",10,6.537,285.15
+"Homocystine Hcy-Hcy",29,6.441,1278.00
